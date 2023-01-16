@@ -83,6 +83,8 @@ Tech Utils:
 🔹 Back: Node.js, Express.
 🔹 Database: PostgreSQL, Sequelize.
 
+👉Deploy: https://letscook-pi.vercel.app/
+
 ~~~
 <p align="center">
 <img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
@@ -109,14 +111,13 @@ Design and develop a web page about campings including:
 ✔ Blog
 ✔ Different dashboards
 
-
-
 Tech Utils:
 🔹 Typescript
+🔹 Front: React JS, Redux, Material-UI
+🔹 Back: NodeJs, Express, Sequelize
 🔹 Database: MySQL
-🔹 Back-End: NodeJs, Express, Sequelize
-🔹 Front-End: React JS, Redux, Material-UI
 
+👉Deploy: https://campy-frontend.vercel.app/
 ~~~
 <h2><center>Home --- Login</center></h2>
 <p align="center">
@@ -128,22 +129,10 @@ Tech Utils:
 <img align="center" width="400px" src='./PF_images/2.png' />
 <img align="center" width="400px" src='./PF_images/4.png' />  
 </p>
-<h2><center></center></h2>
+<h2><center>Blog --- Dashboard</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF_images/21 - homeadmin.jpg' />
-<img align="center" width="400px" src='./PF_images/22 - useradmin.jpg' />
-</p>
-<p align="center">
-<img align="center" width="400px" src='./PF_images/23 - gamesadmin.jpg' />
-<img align="center" width="400px" src='./PF_images/24 - paymentadmin.jpg' />  
-</p>
-<p align="center">
-<img align="center" width="400px" src='./PF_images/25 - reviewadmin.jpg' />
-</p>
-<h2><center>Web Game</center></h2>
-<p align="center">
-<img align="center" width="400px" src='./PF_images/31 - loginweb.jpg' />
-<img align="center" width="400px" src='./PF_images/32 - gameweb.jpg' />
+<img align="center" width="400px" src='./PF_images/3.png' />
+<img align="center" width="400px" src='./PF_images/6.png' />
 </p>
 
 ___________________________________________
@@ -152,12 +141,10 @@ ___________________________________________
 
 ## 📫 CONTACT ME
 
-Do you want to work together?
 
-**Email:** felipetau0@gmail.com
-
-<p align="left">
-<a href="https://www.linkedin.com/in/felipe-tau/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felipe-tau/" height="30" width="40" />
+**Email:** virginia.juarez1996@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/maria-virginia-juarez/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-virginia-juarez/" height="30" width="40" />
 </a>
 </p>
