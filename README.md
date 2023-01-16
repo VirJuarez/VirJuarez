@@ -83,9 +83,10 @@ Tech Utils:
 🔹 Back: Node.js, Express.
 🔹 Database: PostgreSQL, Sequelize.
 
+~~~
 👉Deploy: https://letscook-pi.vercel.app/
 
-~~~
+
 <p align="center">
 <img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
 <img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
@@ -116,9 +117,9 @@ Tech Utils:
 🔹 Front: React JS, Redux, Material-UI
 🔹 Back: NodeJs, Express, Sequelize
 🔹 Database: MySQL
-
-👉Deploy: https://campy-frontend.vercel.app/
 ~~~
+👉Deploy: https://campy-frontend.vercel.app/
+
 <h2><center>Home --- Login</center></h2>
 <p align="center">
 <img align="center" width="400px" src='./PF_images/1.png' />
