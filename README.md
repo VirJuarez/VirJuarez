@@ -65,7 +65,7 @@ CONTACTO
 
 ## Projects
 
-# Food App 
+### Food App 
 
 ~~~
 📌 Henry Bootcamp Individual Project 
@@ -85,16 +85,16 @@ Tech Utils:
 
 ~~~
 <p align="center">
-<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.jpg"/>
-<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.jpg" />
+<img align="center" width="400px" src="./PI_images/LANDING-FOODAPP.png"/>
+<img align="center" width="400px" src="./PI_images/HOME-FOODAPP.png" />
 </p>
 <p align="center">
-<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.jpg" />
-<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.jpg" />
+<img align="center" width="400px" src="./PI_images/DETAIL-FOODAPP.png" />
+<img align="center" width="400px" src="./PI_images/FORM1-FOODAPP.png" />
 </p>
 
 ____________________
-# Campy
+### Campy
 
 ~~~
 📌 Final group project of Bootcamp Henry.
@@ -118,31 +118,32 @@ Tech Utils:
 🔹 Front-End: React JS, Redux, Material-UI
 
 ~~~
-<h2><center>Mobile Game</center></h2>
+<h2><center>Home --- Login</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/1 - login.jpg' />
-<img align="center" width="400px" src='./PF-Images/2 - game.jpg' />
+<img align="center" width="400px" src='./PF_images/1.png' />
+<img align="center" width="400px" src='./PF_images/5.png' />
+</p>
+<h2><center>Booking --- Map</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PF_images/2.png' />
+<img align="center" width="400px" src='./PF_images/4.png' />  
+</p>
+<h2><center></center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PF_images/21 - homeadmin.jpg' />
+<img align="center" width="400px" src='./PF_images/22 - useradmin.jpg' />
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/3 - ranking.jpg' />
-<img align="center" width="400px" src='./PF-Images/4 - perfil.jpg' />  
-</p>
-<h2><center>Administrator Panel</center></h2>
-<p align="center">
-<img align="center" width="400px" src='./PF-Images/21 - homeadmin.jpg' />
-<img align="center" width="400px" src='./PF-Images/22 - useradmin.jpg' />
+<img align="center" width="400px" src='./PF_images/23 - gamesadmin.jpg' />
+<img align="center" width="400px" src='./PF_images/24 - paymentadmin.jpg' />  
 </p>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/23 - gamesadmin.jpg' />
-<img align="center" width="400px" src='./PF-Images/24 - paymentadmin.jpg' />  
-</p>
-<p align="center">
-<img align="center" width="400px" src='./PF-Images/25 - reviewadmin.jpg' />
+<img align="center" width="400px" src='./PF_images/25 - reviewadmin.jpg' />
 </p>
 <h2><center>Web Game</center></h2>
 <p align="center">
-<img align="center" width="400px" src='./PF-Images/31 - loginweb.jpg' />
-<img align="center" width="400px" src='./PF-Images/32 - gameweb.jpg' />
+<img align="center" width="400px" src='./PF_images/31 - loginweb.jpg' />
+<img align="center" width="400px" src='./PF_images/32 - gameweb.jpg' />
 </p>
 
 ___________________________________________
