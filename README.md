@@ -135,7 +135,10 @@ Tech Utils:
 <img align="center" width="400px" src='./PF_images/3.png' />
 <img align="center" width="400px" src='./PF_images/6.png' />
 </p>
-
+<h2><center>Responsive Design</center></h2>
+<p align="center">
+<img align="center" width="400px" src='./PF_images/7.png' />
+</p>
 ___________________________________________
 
 
