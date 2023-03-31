@@ -48,8 +48,12 @@ CONTACTO
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
 <!-- materialUI -->
-<a href="https://mui.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="40" height="40" /></a>  
+<a href="https://mui.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" width="40" height="40" /></a> 
+<!-- Tailwind --> 
+<a href="https://www.tailwindcss.com/" target="_blank" style="margin: 3px"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" /></a> 
 </p>
+
+<h4 align="center"><strong>And also learning:</strong> React Native - Angular - Python</h4>
 
 <br/> 
 
